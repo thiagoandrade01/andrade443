@@ -9,16 +9,16 @@ theme: jekyll-theme-chirpy
 lang: en
 
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
-timezone:
+timezone: America/Sao_Paulo
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Andrade # the main title
+title: Andrade Security Wiki # the main title
 
 tagline: Cyber Security Wiki | Debian # it will display as the subtitle
 
-description: >- # used by seo meta and the atom feed
+description: >- Security Offensive Wiki # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
 
 # Fill in the protocol & hostname for your site.
@@ -38,7 +38,7 @@ social:
   email: andrade@debian.org # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    #- https://www.linkedin.com/in/thiagoandrademarques/ # change to your Twitter homepage
+    - https://www.linkedin.com/in/thiagoandrademarques/ # change to your Twitter homepage
     - https://github.com/thiagoandrade01 # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
