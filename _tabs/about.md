@@ -8,7 +8,7 @@ order: 4
 
 Hey folks! I'm **Thiago Andrade** — a passionate cybersecurity professional, Debian Developer, and Red Teamer.
 
-![Me](https://thiagoandrade01.github.io/assets/img/personal/ta-300x266.jpeg)
+![Me](https://andrade.wiki.br/assets/img/personal/ta-300x266.jpeg)
 
 ## 🧠 About Me
 
