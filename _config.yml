@@ -98,7 +98,7 @@ theme_mode: dark # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: 'https://andrade.wiki.br/wp-content/uploads/2025/01/thiago_andrade_perfil-300x266.jpeg'
+avatar: 'https://andrade.wiki.br/assets/img/personal/ta-300x266.jpeg'
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
