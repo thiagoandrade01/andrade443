@@ -13,6 +13,7 @@ Hey folks! I'm **Thiago Andrade** — a passionate cybersecurity professional, D
 ## 🧠 About Me
 
 With years of hands-on experience in **Penetration Testing**, **Red Teaming**, and **vulnerability analysis**, I’ve made a career out of breaking (and fixing) things. I specialize in simulating real-world cyber attacks to help organizations understand and improve their security posture.
+On my free time I'm playing and studying on [***Hacking Club Platform***](https://app.hackingclub.com/profile/user/22095).
 
 I’m known for:
 - 🔍 Identifying and exploiting vulnerabilities with precision  
